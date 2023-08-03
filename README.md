@@ -8,4 +8,4 @@ Changed my mind about the second set of analyses
 
 Adding even more text
 
-I'm both trying to and not trying to cause a conflict. 
+I'm changing line 11, which has changed in my absence
